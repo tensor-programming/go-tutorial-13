@@ -1,10 +1,10 @@
 # Go Tutorial Part 13
 # Finishing our user Module. 
 
-### We refactor our User module with our web app. We also add full user validation through the use of cookies and make things work. 
+### We added User validation as well as unique user names and made our UUID our session value instead of the user name and password. 
 ## Run `go run *.go` or `go run main.go data.go cookies.go` to run the app, run `go build main.go data.go main.go` to build an executable file. 
 
-### Check out the Youtube Tutorial for this [Go Program](https://youtu.be/j1AKMabvU5g). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Go Program](https://youtu.be/QNOzYr80DtY). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
